@@ -15,7 +15,7 @@
 
 ### 👨‍💻: About me :
 
-* :telescope: I am currently working for ahaStudio creating and developing web and mobile solutions :muscle:
+* :telescope: I am currently working for ahaStudio creating and developing web and mobile solutions 👍
 
 * :seedling: I am studying :blue_book: and practice :computer: c# .net ecosystem, and flutter 📲
 
